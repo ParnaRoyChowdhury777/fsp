@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    color: white;
+}
+
+body{
+    height: 150vh;
+    background-image: linear-gradient(to top, #ac4e90 0%, #b897af 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    margin-top: 8rem;
+}
+
+#Update{
+    display: none;
+}
+
